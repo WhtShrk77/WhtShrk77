@@ -161,15 +161,6 @@ ECE engineer with expertise spanning **ASIC design**, **FPGA implementation**, *
 - Content Creation & Design
 - Project Management
 - Data Analysis & Visualization
-
----
-
-## 📊 GitHub Stats 
-
-```
-![Vaisakh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhtShrk77&show_icons=true&theme=radical)
-```
-
 ---
 
 ## 🤝 Connect With Me
