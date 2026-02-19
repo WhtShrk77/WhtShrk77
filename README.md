@@ -164,11 +164,10 @@ ECE engineer with expertise spanning **ASIC design**, **FPGA implementation**, *
 
 ---
 
-## 📊 GitHub Stats (Optional)
+## 📊 GitHub Stats 
 
-*Add your GitHub stats here if desired:*
 ```
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Vaisakh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhtShrk77&show_icons=true&theme=radical)
 ```
 
 ---
@@ -177,7 +176,7 @@ ECE engineer with expertise spanning **ASIC design**, **FPGA implementation**, *
 
 - 📧 **Email:** vaisakhmelaveetilshaju@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/vaisakh-melaveetil-76236024a](linkedin.com/in/vaisakh-melaveetil-76236024a)
-- 🐙 **GitHub:** *Add your GitHub profile link*
+- 🐙 **GitHub:** [*WhtShrk77](https://github.com/WhtShrk77)
 
 ---
 
