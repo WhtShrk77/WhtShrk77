@@ -15,7 +15,7 @@ ECE engineer with expertise spanning **ASIC design**, **FPGA implementation**, *
 
 **Manipal Institute of Technology, Bengaluru**  
 *B.Tech in Electronics & Communication Engineering*  
-2020 – 2026 (Expected) | **CGPA: 7.68/10.0**
+2020 – 2026 (Expected) | **CGPA: 7.88/10.0**
 
 **Kailasanadha Vidhyanikethan**  
 *Higher Secondary Diploma (12th Boards)*  
